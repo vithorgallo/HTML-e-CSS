@@ -1,4 +1,4 @@
-# Por Vithor, página testando github page's
+# Vithor Github page's
 
 Estudos de Vithor G. Ecker sobre HTML e CSS
 
